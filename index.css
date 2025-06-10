@@ -364,12 +364,14 @@ h2 span{
     background-color: black;
     border-radius: 4rem;
     font-size:16px;
-    color: rgb(183,75,75);
     font-weight: 600;
     margin-top:15px;
     border: 2px solid rgb(183,75,75);
     transition: 0.3s ease;
     cursor: pointer;
+}
+.con-btn a{
+     color: rgb(183,75,75);
 }
 
 .con-btn:hover{
@@ -379,12 +381,10 @@ h2 span{
     box-shadow: 0 0 25px rgb(183,75,75);
 }
 .border-line{
-    width: 90%;
-    display: flex;
     width: 100%;
-    justify-content: space-around;
     box-sizing: border-box;
     flex-basis: 31%;
+    padding-left:5px;
     padding-bottom: 20px;
     padding-top: 10px;
 }
