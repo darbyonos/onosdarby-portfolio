@@ -190,7 +190,7 @@ span{
 }
 
 .web-text{
-    font-size:34px;
+    font-size:3rem;
     font-weight: 600;
     min-width: 292px;
 }
@@ -317,7 +317,7 @@ h2 span{
     font-weight: 700;
     line-height: 1.3;
     }
-.hom.home-content h6{
+  .home.home-content h6{
     font-size: 3rem;
     margin-bottom: 1rem;
     font-weight: 500;
